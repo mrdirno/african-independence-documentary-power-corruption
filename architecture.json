@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_documentary_power_corruption",
+  "title": "The Liberator's Circle",
+  "tagline": "Twenty years after independence, a revolutionary leader confronts the slow corruption of his own dream.",
+  "target_words": 70000,
+  "actual_words": 69159,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Erosion of Revolutionary Ideals",
+    "The Geometry of Compromise",
+    "Intergenerational Betrayal",
+    "The Personal Cost of Statecraft"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Anniversary Rain",
+      "words": 2880
+    },
+    {
+      "ch": 2,
+      "title": "The Bleeding Placard",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Unstable Shaft",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "The Committee's Stone",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "The Nurse's Steady Hand",
+      "words": 2850
+    },
+    {
+      "ch": 6,
+      "title": "The Professor's Whisper",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Blue Room Broadcast",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "The Renegotiation Clause",
+      "words": 2750
+    },
+    {
+      "ch": 9,
+      "title": "The Smuggled Printing Press",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "The Ghost of Kenkey",
+      "words": 2850
+    },
+    {
+      "ch": 11,
+      "title": "The Half-Built Hospital",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "The Leash and the Chain",
+      "words": 2700
+    },
+    {
+      "ch": 13,
+      "title": "The Path We Walk",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Currency of the Powerless",
+      "words": 2800
+    },
+    {
+      "ch": 15,
+      "title": "The Portrait on the Wall",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "The Eternal Flame Sputters",
+      "words": 2600
+    },
+    {
+      "ch": 17,
+      "title": "The Geometry of Power",
+      "words": 2750
+    },
+    {
+      "ch": 18,
+      "title": "The Sentimental Risk",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Soil and the Siphon",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Ordinary Monster",
+      "words": 2850
+    },
+    {
+      "ch": 21,
+      "title": "The Center is Your Spine",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "The Same Hand",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Tools We Use",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Bruised Light",
+      "words": 2879
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a young activist discovers a secret letter from President Asante's revolutionary past, addressed to them personally.",
+      "Draft a monologue from Ama Serwah's perspective, reflecting on the moment she realized her brother was no longer just 'Kofi'.",
+      "Create a dialogue between Minister Jojo Mensah and the Chinese engineer, negotiating over the unstable mine shafts.",
+      "Write the 'confessional' anniversary speech President Asante *wishes* he could give, using Ama's margin notes as a guide."
+    ],
+    "technical": [
+      "Build an interactive timeline that maps the promises of Asante's independence speech against the real outcomes 20 years later, using quotes from the novel.",
+      "Create a data visualization project showing the 'Geometry of Power'—a network graph of characters, their loyalties, and the financial/political contracts that bind them."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "George Orwell",
+      "Ngũgĩ wa Thiong'o",
+      "Sophocles"
+    ]
+  },
+  "cover_prompt": "An aging revolutionary leader in a worn military jacket stands alone on a grand but decaying government balcony, his back to the viewer, gazing over a sprawling, rain-slicked capital city at dusk where modern glass towers rise beside crumbling socialist-era monuments, a single, weathered revolutionary flag hangs limp beside him, [atmospheric setting with mood-appropriate details], in the evocative and textured style of photographer Pieter Hugo's portraiture, capturing the weight of history and moral ambiguity, [book cover framing, centered composition, dramatic angle], with the stark, cinematic chiaroscuro lighting of a Gordon Willis film noir, a palette of desaturated ochres, deep umbers, and cold concrete grays, pierced only by the sickly yellow glow of distant streetlights, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
