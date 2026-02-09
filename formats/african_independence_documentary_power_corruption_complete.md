@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **Chapter 1**
 
-The rain fell like a judgment on the tin roof of the State House. It wasn’t the gentle, life-giving rain of the planting season, the kind the old women praised with upturned palms. This was a lashing, horizontal spite, drumming a metallic panic that seeped into the marrow of the building and the men inside. President Kwame Asante stood at the bulletproof window, his reflection a ghost superimposed over the drowned gardens. Independence Square was a grey lake, the eternal flame a hissing, pathetic spark in the downpour. Twenty years to the day. The anniversary broadcast was in three hours.
+The photograph is grainy, shot on expired Soviet film that gives everything a greenish tint. It shows Minister Abebe standing beside a new Mercedes-Benz, 1974 model, imported despite the automotive ban. His hand rests on the hood as if blessing the machine. Behind him, the skeletal frame of a hospital project stands unfinished, rebar rusting in the coastal air. I've studied this image for twenty-three years, counting the pixels like rosary beads. The license plate is partially obscured by shadow, but forensic enhancement revealed it: GOV-001. First government vehicle registered after independence. The photographer, Kofi Mensah, disappeared three days after developing this roll. His darkroom was dismantled, chemicals poured down drains. Yet this single print survived, smuggled out in a diplomatic pouch to Geneva. When you play the audio recording that accompanies it—a Dictaphone tape found sewn into a diplomat's jacket lining—you hear Abebe's voice, slightly distorted: "The people need symbols of progress. Let them see what victory looks like." Then the sound of an engine turning over, smooth and expensive. The tape hisses for seventeen seconds before cutting off. That silence contains everything.
+
 
 Behind him, in the cavernous office that still smelled faintly of colonial polish and new anxiety, his Minister of the Interior, Joseph “Jojo” Mensah, was talking. Jojo’s voice was a smooth, practiced instrument, calibrated to soothe and insinuate in equal measure.
 
@@ -89,6 +92,8 @@ He lifted his pen. He looked at his handwritten pages, at the sentence: *“We h
 Slowly, deliberately, he drew a single, dark line through it. The ink soaked through the paper, a black scar.
 
 Outside, the sun vanished behind another cloud. The spear of flame was just a flicker again, fighting the damp. The broadcast was in one hour. The president picked up the approved speech, the stone, and began to read it aloud, his voice a flat, empty echo in the grand, leaking room.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -181,6 +186,8 @@ As he was led down the polished corridor, he heard the first echoes of the new r
 Another voice, a man, cynical: “Words. Just new words. Tomorrow, the soldiers will still be at the roadblocks with their hungry hands.”
 
 But the seed was planted. In the dormitory, Kojo Osei sat in stunned silence, his anger momentarily disarmed, replaced by a confusing, treacherous flicker of hope. And in the city, in the shadows, men like Jojo Mensah were already moving, their plans adapting, their grip tightening. The truth, once spoken, was a wild thing. And wild things had to be caged, or killed.
+
+# Chapter 3
 
 ## **Chapter 3**
 
